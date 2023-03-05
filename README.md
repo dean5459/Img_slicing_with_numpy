@@ -1,6 +1,6 @@
 # Image Slicing and Processing
 
-This Python code scrapes an image from the web, slices it into vertical and horizontal segments, and performs some simple descriptive statistics and filtering operations on the image
+This Python code scrapes an image from the web, slices it into vertical and horizontal segments, and performs some simple descriptive statistics and filtering operations on the image.
 
 ## Requirements
 
