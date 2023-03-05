@@ -9,7 +9,6 @@ This Python code scrapes an image from the web, slices it into vertical and hori
 - io
 - PIL
 - numpy
-- bs4
 - csv
 
 ## Usage
